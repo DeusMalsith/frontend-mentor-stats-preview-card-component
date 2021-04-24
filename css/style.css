@@ -157,7 +157,8 @@ span {
     flex-direction: row-reverse;
     background-color: var(--dark-desaturated-blue);
     border-radius: 8px;
-    margin: 17.7rem 16.5rem;
+    margin: 17.7rem auto;
+    max-width: 111rem;
   }
 
   .inner-container {
