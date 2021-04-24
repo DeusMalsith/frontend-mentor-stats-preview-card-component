@@ -134,6 +134,49 @@ span {
 }
 
 @media screen and (min-width: 1024px) {
+  h1 {
+    font-size: 3.7rem;
+    margin-bottom: 3rem;
+  }
+
+  h5 {
+    margin-top: 1rem;
+  }
+
+  p {
+    padding-right: 3.8rem;
+  }
+
+  img {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: var(--dark-desaturated-blue);
+    border-radius: 8px;
+    margin: 17.7rem 16.5rem;
+  }
+
+  .inner-container {
+    margin: 7rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .stats-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 6rem;
+  }
+
+  .stat1,
+  .stat2 {
+    margin-right: 6rem;
+  }
+
   .mobile-image {
     display: none;
   }
