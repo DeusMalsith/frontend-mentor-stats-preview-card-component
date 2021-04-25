@@ -28,7 +28,7 @@ body {
 }
 
 img {
-  filter: brightness(0.35) sepia(1) hue-rotate(235.3deg) saturate(7)
+  filter: brightness(0.35) sepia(1) hue-rotate(232.1deg) saturate(7)
     contrast(0.74);
 }
 
